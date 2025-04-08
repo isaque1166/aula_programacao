@@ -1,5 +1,7 @@
 #aula_programacao com python
-##prof Pablo Ramon
+## Prof Pablo Ramon
 
  - 08/04/25 - aula git e github
+
+  - licensa GNU
 
